@@ -20,7 +20,8 @@ Jim Mahoney |  cs.marlboro.edu | MIT License | summer 2017
     A size=4 stringlist : ['four', 'three', 'two', 'one']
     Reversed : ['one', 'two', 'three', 'four']
     Sorted : ['four', 'one', 'three', 'two']
-    A list from 'small.txt' : ['not', 'or', 'words', 'of', 'list', 'a', 'is', 'this']
+    A list from 'small.txt' : ['not', 'or', 'words', 'of', 'list', \
+                               'a', 'is', 'this']
     Reversed : ['this', 'is', 'a', 'list', 'of', 'words', 'or', 'not']
     Sorted : ['a', 'is', 'list', 'not', 'of', 'or', 'this', 'words']
     Read a big list from 'big.txt' with 103600 lines. 
